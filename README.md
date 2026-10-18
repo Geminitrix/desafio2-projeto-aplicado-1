@@ -53,3 +53,9 @@ Os scripts foram executados em um banco SQLite real. Os valores calculados batem
 com o PDF do certificado da Schulz: 6,079 / 6,078 / 16,970 / 0,430 / 0,132 / 0,868
 e os erros 0,004 / 0,003 / 0,006 / 0,001. Resultado: **8 características aprovadas
 e 6 reprovadas**, `0` registros órfãos e `integrity_check = ok`.
+
+## Abrindo no VS Code
+
+Abra a pasta no VS Code e rode `python criar_banco.py` no terminal integrado.
+Para inspecionar o banco gerado sem sair do editor, use a extensão
+*SQLite Viewer* e abra o `schulz.db`.
