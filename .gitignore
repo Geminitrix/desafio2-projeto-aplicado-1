@@ -1,0 +1,6 @@
+# Banco gerado pelo criar_banco.py
+schulz.db
+*.db-journal
+
+__pycache__/
+*.pyc
