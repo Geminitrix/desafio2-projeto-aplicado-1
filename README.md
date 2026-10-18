@@ -18,7 +18,6 @@ coordenadas (MMC).
 | `04_dados_exemplo.sql` | Complemento — carrega os dados reais do certificado nº 00091/2026 |
 | `05_consultas.sql` | Complemento — consultas de verificação |
 | `criar_banco.py` | Complemento — executa os scripts e confere a estrutura |
-| `Scripts - Desafio 2.txt` | Tudo em um arquivo só, com a lista de correções |
 
 ## Como executar
 
